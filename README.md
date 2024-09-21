@@ -1,5 +1,5 @@
 
-![tapswap](https://github.com/user-attachments/assets/ae072559-4b62-40d8-93ba-05f4d0afa6a9)
+![tapswap](https://github.com/user-attachments/assets/b9a3b308-4d78-48d5-a869-5c70a69704f5)
 
 # Telegram-Clicker-Tap-Mini-App
 
