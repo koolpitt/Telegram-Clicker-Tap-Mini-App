@@ -1,3 +1,6 @@
+
+![tapswap](https://github.com/user-attachments/assets/ae072559-4b62-40d8-93ba-05f4d0afa6a9)
+
 # Telegram-Clicker-Tap-Mini-App
 
 Telegram clicker tap mini app game like Tapswap, Hamster Kombat and Notcoin
